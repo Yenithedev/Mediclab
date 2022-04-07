@@ -1,0 +1,100 @@
+@media screen and (max-width: 1047px){
+.navbar ul{
+	flex-wrap: wrap;
+	padding: 0px 0px 0px 0px;
+	background-color: #fff;
+	width: 100%;
+	
+}
+.navbar_toggle{
+	display: block;
+	margin-top: 5px;
+	font-size: 40px;
+}
+.navbar_links{
+	width: 100%;
+	text-align: center;
+	display: none;
+}
+.color_1{
+	color: #000;
+}
+.navbar li{
+	list-style-type: none;
+	padding: 15px 30px;
+	color: #000;
+}
+.pic_word_margin{
+	margin-top: 230px;
+}
+.active_2{
+	display: block;
+}
+.color_3{
+	color: #0052FF;
+}
+.navbar_logo{
+	font-size: 20px;
+	margin-top: 15px;
+}	
+.what{
+	flex-direction: column;
+	margin: 100px 300px;
+}
+.what_wedo{
+	width: 100%;
+	margin-bottom: 50px;
+}
+.dept_word{
+	padding: 0px 100px 0px 100px;
+}
+.depart{
+	margin: 50px 20px 50px 20px;
+}
+.deps{width: 44%;
+}
+.our_services{
+	flex-direction: column;
+	align-items: center;
+}
+.services{
+	width: 50%;
+	margin-bottom: 30px;
+}
+.our_specs{
+	flex-direction: column;
+	align-content: center;
+}
+.specs{
+	width: 45%;
+}
+.spec_img{
+
+}
+.blue{
+	line-height: 45px;
+	color: #fff;
+	padding: 0px 300px;
+}
+.location{
+	margin-top: 20px;
+}.contacts{
+	flex-direction: column;
+}
+.foot{
+	flex-direction: column;
+	align-items:  center;
+}
+.copyright{
+	padding: 56px 0px;
+}
+
+
+
+}
+
+
+
+
+
+}
